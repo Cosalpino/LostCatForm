@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    padding: 15px;
+    width: 100%;
+    background-color: grey;
+}
+a{
+    border: 2px solid black;
+    padding: 3px;
+    text-decoration: none;
+    color: black;
+    background-color: lightgray;
+}
+a:hover{
+    background-color: #bebebe;
+}
